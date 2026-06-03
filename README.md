@@ -10,4 +10,3 @@ I work on LLM evaluation, agentic systems, and research tooling for scientific l
 
 ### Contact
 - Linkedin: [andre-gomes-643ab155](https://www.linkedin.com/in/andre-gomes-643ab155/)
-- Web: [datagomes.com](https://datagomes.com)
